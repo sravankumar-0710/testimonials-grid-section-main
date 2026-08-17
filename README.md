@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/sravankumar-0710/testimonials-grid-section-main
-- Live Site URL: Add your live site URL here
+- Solution URL: [https://github.com/sravankumar-0710/testimonials-grid-section-main](https://github.com/sravankumar-0710/testimonials-grid-section-main)
+- Live Site URL: [Add your live site URL here](https://sravankumar-0710.github.io/testimonials-grid-section-main/)
 
 ## My process
 
